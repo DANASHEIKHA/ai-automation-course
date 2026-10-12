@@ -2,11 +2,6 @@
 
 ## SkillBridge Lite — AI-Powered Career Fit Assistant
 
-**الوحدة:** U2 — Build the System  
-**الأداة:** Lovable  
-**نوع المشروع:** Working Web Prototype  
-**الهدف:** تحويل المتطلبات والتصميم ومواصفات النظام إلى تطبيق ويب أولي قابل للاستخدام.
-
 ---
 
 # 1. Purpose of This Guide
